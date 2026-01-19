@@ -166,16 +166,6 @@ The analysis shows a healthy, profitable, and growing business with well-control
 
 ---
 
-## 📁 Repository Contents
-powerbi-adventureworks-sales-profit-analysis/
-│
-├── adventureworks_sales_profit_analysis.pbix
-├── dashboard_screenshots/
-├── dataset/
-└── README.md
-
----
-
 ## 👤 Author
 **Indranil Bhosale**  
 Aspiring Data Analyst  
